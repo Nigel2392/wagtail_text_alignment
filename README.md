@@ -1,7 +1,10 @@
 wagtail_text_alignment
 ================
 
-...
+**Why is this package better than other implementations?**
+
+Other implementations often lack support for text alignment on block entities.
+This package doesn't have that limitation. You can align text, headings, lists, etc.
 
 Quick start
 -----------
