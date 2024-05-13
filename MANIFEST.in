@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+recursive-include wagtail_text_alignment/static *
+recursive-include wagtail_text_alignment/templates *
+recursive-include wagtail_text_alignment/locale *
+recursive-include wagtail_text_alignment/migrations *
+recursive-include wagtail_text_alignment/templatetags *
